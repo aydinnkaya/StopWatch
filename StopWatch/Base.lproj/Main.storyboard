@@ -34,7 +34,6 @@
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="l3A-YK-Nkj">
                                 <rect key="frame" x="197.66666666666663" y="205" width="195.33333333333337" height="62"/>
-                                <color key="tintColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="plain" title="RESET">
                                     <fontDescription key="titleFontDescription" type="boldSystem" pointSize="40"/>
